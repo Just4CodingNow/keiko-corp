@@ -23,3 +23,15 @@ https://web.dev/font-display/?utm_source=lighthouse&utm_medium=unknown
 6. Run Grunt **grunt**
   
 *Check more information: https://www.keycdn.com/blog/remove-unused-css*
+  
+## Image elements do not have explicit width and height
+  1. In VSC located the end tag of of an image **>**
+  2. Press **Shift+command+p**
+  3. Type **Update image size**
+  4. Press Enter and it will automaticlly add image size
+  *Learn more: https://christianheilmann.com/2021/04/14/quick-vs-code-tip-automatically-add-image-width-and-height-to-images/*
+  
+## To Do:
+  - Using Imagemin with Grunt to opmize images size - https://web.dev/codelab-imagemin-grunt/
+  - Extract critical CSS - https://web.dev/extract-critical-css/
+  - 
